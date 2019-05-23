@@ -1,4 +1,4 @@
-module github.com/gobuffalo/packr
+module github.com/quorumcontrol/packr
 
 require (
 	github.com/gobuffalo/envy v1.7.0
